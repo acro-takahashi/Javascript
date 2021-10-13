@@ -1,6 +1,6 @@
 # Javascript  
 
-No.1:ランダム配置を探す  
+No.1:[ランダム配置を探す](https://acro-takahashi.github.io/Javascript/No.1/)  
 
 # 参考リンク  
 ・No.1  
