@@ -1,7 +1,7 @@
 # Javascript  
 
-No.1:[.js：ランダム配置を探す](https://acro-takahashi.github.io/Javascript/No.1/)  
-No.2:[Vue.js：ToDoリスト](https://acro-takahashi.github.io/Javascript/No.2/)  
+No.1:[ランダム配置を探す(.js)](https://acro-takahashi.github.io/Javascript/No.1/)  
+No.2:[ToDoリスト(Vue.js)](https://acro-takahashi.github.io/Javascript/No.2/)  
 
 # 参考リンク  
 ・No.1  
