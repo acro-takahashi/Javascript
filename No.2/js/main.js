@@ -5,7 +5,9 @@
     el: '#app',
     data: {
       newItem: '',
-      todos: []
+      todos: [
+        "test"
+      ]
     },
     watch: {
       todos: {
