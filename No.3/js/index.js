@@ -19,8 +19,13 @@ for(var i = 0; i < imgList.length; i++) {
 	var nav = document.createElement("li");
 	// プロパティ「data-nav-index」に数値を割り振る
 	nav.setAttribute("data-nav-index", i);
+
+	
+	nav.style.backgroundImage = "url(" + imgList[i] + ")";
+	nav.style.width = 100 / imgList.length + "%";
 	// li要素をクラス名「nav」の子要素として追加
 	document.getElementsByClassName("nav")[0].appendChild(nav);
+	
 }
 
 // スライドの数を取得(処理のために-1する)
