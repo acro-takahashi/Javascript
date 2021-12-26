@@ -7,7 +7,8 @@ No.2:[ToDoリスト(Vue.js)](https://acro-takahashi.github.io/Javascript/No.2/)
 No.3:[スライドショー(.js)](https://acro-takahashi.github.io/Javascript/No.3/)  
 ![Videotogif (3)](https://user-images.githubusercontent.com/91651462/146885202-6c98c8f1-4f98-4977-97a6-92f982743bba.gif)  
 No.4:[ページ内スクロール(JQuery)](https://acro-takahashi.github.io/Javascript/No.4/)  
-![Videotogif (4)](https://user-images.githubusercontent.com/91651462/147399326-a37f9ec3-9089-48cb-ba17-d5d3c2c3f08a.gif)
+![Videotogif (4)](https://user-images.githubusercontent.com/91651462/147399326-a37f9ec3-9089-48cb-ba17-d5d3c2c3f08a.gif)  
+EX:[カウントテスト(.js)](https://acro-takahashi.github.io/Javascript/conttest/)
 
 # 参考リンク/参考書  
 ・No.1  
