@@ -1,0 +1,57 @@
+.section .oneArea {
+  margin-bottom: 200px;
+}
+.section ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style-type: none;
+  margin: 0 0 100px;
+  padding: 0;
+  box-sizing: border-box;
+}
+.section ul li {
+  width: calc(100% / 6);
+  border-right: 1px solid #fff;
+  text-align: center;
+  box-sizing: border-box;
+}
+.section ul li:last-child {
+  border-right: none;
+}
+.section ul li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #fff;
+  background: #333;
+  transition-duration: 0.3s;
+}
+.section ul li a:hover {
+  opacity: 0.7;
+}
+.section .oneArea .one_title {
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  background: #333;
+}
+.section .oneArea a.button {
+  display: block;
+  font-size: 12px;
+  color: #333333;
+  text-align: center;
+  background: #f2f2f2;
+  padding: 10px;
+  text-decoration: none;
+  transition-duration: 0.3s;
+  margin-top: 40px;
+}
+.section .oneArea a.button:hover {
+  opacity: 0.7;
+}
+@media screen and (max-width: 1024px) {
+  .section .oneArea .one_title {
+    font-size: 18px;
+  }
+}
